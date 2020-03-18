@@ -1,0 +1,91 @@
+body {
+    background-color: rgb(80, 71, 71);
+}
+table {
+    max-width: 80vw;
+    width: 100%;
+}
+#table2 {
+    width: 70%;
+    height: 30px;
+    padding: 20px;
+}
+#table3 {
+    width: 74%;
+}
+img {
+    height: 16.5vw;
+}
+h1 {
+    text-align: center;
+    font-size: 2vw;
+    font-family: sans-serif;
+}
+h2 {
+    font-family: sans-serif;
+    font-size: 1.59vw;
+    color: black;
+    line-height: 0;
+}
+p {
+    table-layout: fixed;
+    font-family: sans-serif;
+    font-size: 0.49vw;
+    color: black;
+    line-height: 0.5;
+}
+p.number {
+    color: dimgray;
+    text-align: left;
+}
+p.atom {
+    color: dimgray;;
+    text-align: right;
+}
+th {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.blank {
+    visibility: hidden;
+}
+.blue {
+    background-color:  skyblue;
+    border: 1px solid #66c1e5;
+}
+.red {
+    background-color: #ff5c33;
+    border: 1px solid #ff3300;
+}
+.orange {
+    background-color:  #ff9933;
+    border: 1px solid #ff8000;
+}
+.yellow {
+    background-color:  #ffe14d;
+    border: 1px solid #ffd500;
+}
+.green {
+    background-color:  #70db70;
+    border: 1px solid #29a329;
+}
+.aqua {
+    background-color:  #99ffdd;
+    border: 1px solid #00e699;
+}
+.light_p {
+    background-color:  #ccccff;
+    border: 1px solid #8080ff;
+}
+.purple {
+    background-color:  #9999ff;
+    border: 1px solid #6666ff;
+}
+.lime {
+    background-color:  #bae184;
+    border: 1px solid #a3d759;
+}
+.light_g {
+    background-color:  #adebad;
+    border: 1px solid #70db70;
+}
